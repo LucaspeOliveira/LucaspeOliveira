@@ -6,7 +6,7 @@
 [![Crazypingolu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crazypingolu&theme=gruvbox)](https://github.com/Crazypingolu/github-readme-activity-graph)
 #
 
-### <div style ="color:e7ba2f;font-size: 1.6rem">My Socials: 
+### <div style ="color:e7ba2f;font-size: 3.6rem">My Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peres-a13227268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 #
