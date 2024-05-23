@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7ba2f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfa961&height=120&section=header"/>
 
 ### <center><div style ="color:e7ba2f;font-size: 2.5rem">Hello there! 👋 Welcome to my profile!
 
@@ -17,4 +17,4 @@
 
 ![Crazypingolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypingolu&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypingolu&size_weight=0.5&count_weight=0.5)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7ba2f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfa961&height=120&section=footer"/>
