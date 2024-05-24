@@ -8,7 +8,7 @@
 
 ### <div style ="color:e7ba2f;font-size: 3.6rem">My Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peres-a13227268/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucaspe.oliveira21@gmail.com)
 #
 ### <div style ="color:e7ba2f;font-size: 1.6rem">Languages used:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
