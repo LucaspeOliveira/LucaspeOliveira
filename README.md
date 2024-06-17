@@ -15,5 +15,5 @@
 
 #
 ![Crazypingolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypingolu&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypingolu&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypingolu&size_weight=0.5&count_weight=0.5&theme=gruvbox)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfa961&height=120&section=footer"/>
