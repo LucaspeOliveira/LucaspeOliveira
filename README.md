@@ -12,8 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=dfa961)](mailto:lucaspe.oliveira21@gmail.com)
 #
 ### Languages used:
-[![My Skills](https://skillicons.dev/icons?i=java,python&perline=15)](https://skillicons.dev)
-
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=dfa961&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=dfa961&labelColor=0D1117)&nbsp;
 #
 ![Crazypingolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypingolu&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypingolu&size_weight=0.5&count_weight=0.5&theme=gruvbox)
