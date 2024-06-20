@@ -8,7 +8,7 @@
 
 #
 ### My Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peres-a13227268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=dfa961)](https://www.linkedin.com/in/lucas-peres-a13227268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspe.oliveira21@gmail.com)
 #
 ### Languages used:
