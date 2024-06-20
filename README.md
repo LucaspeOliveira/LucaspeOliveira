@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfa961&height=120&section=header"/>
 
-### Hello there! 👋 Welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dfa961&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!+👋;ADS+student+at+FATEC+-+Zona+Leste;+Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 #
+
 [![Crazypingolu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crazypingolu&theme=gruvbox)](https://github.com/Crazypingolu/github-readme-activity-graph)
 
 #
