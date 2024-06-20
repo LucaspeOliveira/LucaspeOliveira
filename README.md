@@ -8,8 +8,8 @@
 
 #
 ### My Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=dfa961)](www.linkedin.com/in/lucas-p-oliveira-a13227268)
-[![Gmail](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=gmail&logoColor=dfa961)](mailto:lucaspe.oliveira21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=dfa961)](https://www.linkedin.com/in/lucas-p-oliveira-a13227268)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=dfa961)](mailto:lucaspe.oliveira21@gmail.com)
 #
 ### Languages used:
 [![My Skills](https://skillicons.dev/icons?i=java,python&perline=15)](https://skillicons.dev)
