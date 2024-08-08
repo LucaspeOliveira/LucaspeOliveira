@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=dfa961)](https://www.linkedin.com/in/lucas-p-oliveira-a13227268)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=dfa961)](mailto:lucaspe.oliveira21@gmail.com)
 #
-### Languages used:
+### Technologies that I use:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=dfa961&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=dfa961&labelColor=0D1117)&nbsp;
 #
