@@ -4,7 +4,7 @@
 
 #
 
-[![Crazypingolu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crazypingolu&theme=gruvbox)](https://github.com/Crazypingolu/github-readme-activity-graph)
+[![LucaspeOliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucaspeOliveira&theme=gruvbox)](https://github.com/LucaspeOliveira/github-readme-activity-graph)
 
 #
 ### My Socials: 
@@ -15,6 +15,6 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=dfa961&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=dfa961&labelColor=0D1117)&nbsp;
 #
-![Crazypingolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypingolu&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypingolu&size_weight=0.5&count_weight=0.5&theme=gruvbox)
+![Crazypingolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaspeOliveira&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaspeOliveira&size_weight=0.5&count_weight=0.5&theme=gruvbox)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfa961&height=120&section=footer"/>
